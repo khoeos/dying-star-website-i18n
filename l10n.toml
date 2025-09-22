@@ -6,5 +6,5 @@ locales = [
 [env]
 
 [[paths]]
-  reference = "messages/en.json"
-  l10n = "messages/{locale}.json"
+  reference = "messages/en/messages.json"
+  l10n = "messages/{locale}/messages.json"
