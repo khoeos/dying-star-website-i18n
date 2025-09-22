@@ -1,0 +1,10 @@
+locales = [
+    "fr",
+    "en"
+]
+
+[env]
+
+[[paths]]
+  reference = "messages/en.json"
+  l10n = "messages/{locale}.json"
