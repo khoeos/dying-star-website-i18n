@@ -1,10 +1,10 @@
 locales = [
-    "fr",
+    "fr-FR",
     "en"
 ]
 
 [env]
 
 [[paths]]
-  reference = "messages/en/messages.json"
+  reference = "messages/fr-FR/messages.json"
   l10n = "messages/{locale}/messages.json"
